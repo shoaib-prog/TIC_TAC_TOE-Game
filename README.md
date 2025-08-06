@@ -20,7 +20,7 @@ The project implements interactive gameplay, win detection, and a scoreboard in 
 ---
 
 ## 📹 Demo Video
-Watch the demo here: [LinkedIn Post](PASTE-YOUR-LINKEDIN-URL-HERE)
+Watch the demo here: [LinkedIn Post](https://www.linkedin.com/posts/mohammed-shoaib-p-a-b0a7b02a9_java-swing-gamedevelopment-activity-7358846557896466432-gl2Y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEpVpToBg-K0TCGA6-AYuFfIresPJDy3yVk).
 
 ## 🖥️ How to Run
 1. Clone the repository:
