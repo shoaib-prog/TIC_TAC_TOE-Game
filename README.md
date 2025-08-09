@@ -34,4 +34,10 @@ Watch the demo here: [LinkedIn Post](https://www.linkedin.com/posts/mohammed-sho
 3. Run the game:
    java TicTacToe
 
+👨‍💻 Author
+MOHAMMED SHOAIB P A
+📌 [LinkedIn Profile]: www.linkedin.com/in/mohammed-shoaib-p-a-b0a7b02a9
+
+⭐ If you like this project, give it a star on GitHub to support!
+
 
